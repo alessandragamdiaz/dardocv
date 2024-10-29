@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      domain="https://dev-sedwqtnvpgco728b.us.auth0.com"
      clientId="iaXa2o14hwxgbx029uJfAHLovzyIN6Kj"
      authorizationParams={{
-        redirect_uri: "https://dardocanto_palacios.vercel.app"
+        redirect_uri: "https://dardocantopalacios.vercel.app"
      }}
      audience="http://localhost:8000"
      scope="openid profile email"
