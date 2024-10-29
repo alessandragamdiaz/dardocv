@@ -8,9 +8,9 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <Auth0Provider
      domain="https://dev-sedwqtnvpgco728b.us.auth0.com"
-     clientId="VqPmCvcwVEZZE3B68E3TFXnPcdSJkf9x"
+     clientId="iaXa2o14hwxgbx029uJfAHLovzyIN6Kj"
      authorizationParams={{
-      redirect_uri: "http://localhost:5173"
+        redirect_uri: "https://dardocanto_palacios.vercel.app"
      }}
      audience="http://localhost:8000"
      scope="openid profile email"
