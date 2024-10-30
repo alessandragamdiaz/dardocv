@@ -23,8 +23,7 @@ const Website = () => {
     <Residencies/>
     <Value/>
         <Value2/>
-            <Value3/>
-                <Value4/>
+ 
     <Contact/>
     <GetStarted/>
   </div>
