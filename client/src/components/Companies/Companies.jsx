@@ -4,10 +4,11 @@ const Companies = () => {
   return (
     <section className="c-wrapper">
       <div className="paddings innerWidth flexCenter c-container">
-        <img src="./prologis.png" alt="" />
-        <img src="./tower.png" alt="" />
-        <img src="./equinix.png" alt="" />
-        <img src="./realty.png" alt="" />
+        <img src="./icono11.png" alt="" />
+        <img src="./icono12.png" alt="" />
+        <img src="./icono13.png" alt="" />
+        <img src="./icono14.png" alt="" />
+         <img src="./icono15.png" alt="" />
       </div>
     </section>
   );
