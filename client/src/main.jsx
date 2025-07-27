@@ -8,7 +8,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <Auth0Provider
      domain="dev-sedwqtnvpgco728b.us.auth0.com"
-     clientId="iaXa2o14hwxgbx029uJfAHLovzyIN6Kj"
+     clientId="gQzxqZpomtcfHQg9L0qjGk2MiPjjYMDw"
      authorizationParams={{
         redirect_uri: "https://dardocantopalacios.vercel.app"
      }}
