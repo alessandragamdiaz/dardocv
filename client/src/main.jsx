@@ -7,7 +7,7 @@ import { Auth0Provider } from "@auth0/auth0-react";
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <Auth0Provider
-     domain="dev-sedwqtnvpgco728b.us.auth0.com"
+     domain="https://dev-sedwqtnvpgco728b.us.auth0.com"
      clientId="gQzxqZpomtcfHQg9L0qjGk2MiPjjYMDw"
      authorizationParams={{
         redirect_uri: "https://dardocantopalacioscv.vercel.app"
